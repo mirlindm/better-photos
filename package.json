@@ -1,0 +1,22 @@
+{
+  "name": "betterphotos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch --no-source-map main.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirlindm/better-photos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirlindm/better-photos/issues"
+  },
+  "homepage": "https://github.com/mirlindm/better-photos#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
+}
